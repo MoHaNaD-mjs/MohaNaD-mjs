@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Muhannad
 #### I am  Web Development | Programmer
-![I am  Web Development | Programmer]
+[I am  Web Development | Programmer]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
