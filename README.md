@@ -3,7 +3,6 @@
 #### I am  Web Development | Programmer
 
 .
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoHaNaD-mjs&show_icons=true)
 
 
 Skills: ASP.NET / ANGULAR/ JS / HTML / CSS / C#
