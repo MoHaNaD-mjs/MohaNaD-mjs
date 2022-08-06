@@ -4,6 +4,8 @@
 
 .
 
+**I look forward to contributing and helping others in their projects**
+.
 
 Skills: ASP.NET / ANGULAR/ JS / HTML / CSS / C#
 
